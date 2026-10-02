@@ -1,0 +1,796 @@
+{
+  "title": "Synonyms of the New Testament",
+  "author": "Richard Chenevix Trench, D.D.",
+  "edition": "Eleventh Edition, Corrected and Improved",
+  "publication_year": 1890,
+  "publisher": "Kegan Paul, Trench, Trübner, & Co. Ltd., London",
+  "total_pages": 450,
+  "sections_count": 114,
+  "sections": [
+    {
+      "section_number": "ii",
+      "greek_terms": [
+        "θειότης",
+        "θεότης"
+      ],
+      "title": "θειότης,θεότης",
+      "page": 7
+    },
+    {
+      "section_number": "2",
+      "greek_terms": [
+        "ⅳν. ἐπιτιμάω",
+        "ἐλέγχω",
+        "αἰτία",
+        "ἔλεγχος"
+      ],
+      "title": "ⅳν. ἐπιτιμάω,ἐλέγχω(αἰτία,ἔλεγχος)",
+      "page": 13
+    },
+    {
+      "section_number": "3",
+      "greek_terms": [
+        "ν. ἀνάθημα",
+        "ἀνάθεμα"
+      ],
+      "title": "ν. ἀνάθημα,ἀνάθεμα",
+      "page": 15
+    },
+    {
+      "section_number": "4",
+      "greek_terms": [
+        "νί. προφητεύω",
+        "μαντεύομαι"
+      ],
+      "title": "νί. προφητεύω,μαντεύομαι",
+      "page": 19
+    },
+    {
+      "section_number": "5",
+      "greek_terms": [],
+      "title": "",
+      "page": 24
+    },
+    {
+      "section_number": "viii",
+      "greek_terms": [
+        "ἀληθής",
+        "ἀληθινός"
+      ],
+      "title": "ἀληθής,ἀληθινός",
+      "page": 26
+    },
+    {
+      "section_number": "ix",
+      "greek_terms": [
+        "θεράπων",
+        "δοῦλος",
+        "διάκονος",
+        "οἰκέτης",
+        "ὑπηρέτης"
+      ],
+      "title": "θεράπων,δοῦλος,διάκονος,οἰκέτης,ὑπηρέτης",
+      "page": 30
+    },
+    {
+      "section_number": "8",
+      "greek_terms": [],
+      "title": "",
+      "page": 34
+    },
+    {
+      "section_number": "9",
+      "greek_terms": [],
+      "title": "",
+      "page": 37
+    },
+    {
+      "section_number": "10",
+      "greek_terms": [],
+      "title": "",
+      "page": 41
+    },
+    {
+      "section_number": "11",
+      "greek_terms": [],
+      "title": "",
+      "page": 45
+    },
+    {
+      "section_number": "12",
+      "greek_terms": [],
+      "title": "",
+      "page": 47
+    },
+    {
+      "section_number": "13",
+      "greek_terms": [],
+      "title": "",
+      "page": 49
+    },
+    {
+      "section_number": "14",
+      "greek_terms": [],
+      "title": "",
+      "page": 54
+    },
+    {
+      "section_number": "15",
+      "greek_terms": [],
+      "title": "",
+      "page": 58
+    },
+    {
+      "section_number": "16",
+      "greek_terms": [],
+      "title": "",
+      "page": 60
+    },
+    {
+      "section_number": "17",
+      "greek_terms": [],
+      "title": "",
+      "page": 69
+    },
+    {
+      "section_number": "18",
+      "greek_terms": [],
+      "title": "",
+      "page": 72
+    },
+    {
+      "section_number": "19",
+      "greek_terms": [],
+      "title": "",
+      "page": 74
+    },
+    {
+      "section_number": "20",
+      "greek_terms": [],
+      "title": "",
+      "page": 78
+    },
+    {
+      "section_number": "21",
+      "greek_terms": [],
+      "title": "",
+      "page": 81
+    },
+    {
+      "section_number": "22",
+      "greek_terms": [],
+      "title": "",
+      "page": 84
+    },
+    {
+      "section_number": "23",
+      "greek_terms": [],
+      "title": "",
+      "page": 87
+    },
+    {
+      "section_number": "24",
+      "greek_terms": [],
+      "title": "",
+      "page": 91
+    },
+    {
+      "section_number": "25",
+      "greek_terms": [],
+      "title": "",
+      "page": 98
+    },
+    {
+      "section_number": "26",
+      "greek_terms": [
+        "ΧΧΧ . ἀντίχριστος",
+        "ψευδόχριστος"
+      ],
+      "title": "ΧΧΧ . ἀντίχριστος,ψευδόχριστος",
+      "page": 105
+    },
+    {
+      "section_number": "xxxiii",
+      "greek_terms": [
+        "ἄφεσις",
+        "πάρεσις"
+      ],
+      "title": "ἄφεσις,πάρεσις",
+      "page": 114
+    },
+    {
+      "section_number": "28",
+      "greek_terms": [
+        "xxxίν. μωρολογία",
+        "αἰσχρολογία",
+        "εὐτραπελία"
+      ],
+      "title": "xxxίν. μωρολογία,αἰσχρολογία,εὐτραπελία",
+      "page": 120
+    },
+    {
+      "section_number": "29",
+      "greek_terms": [],
+      "title": "",
+      "page": 125
+    },
+    {
+      "section_number": "30",
+      "greek_terms": [],
+      "title": "",
+      "page": 130
+    },
+    {
+      "section_number": "31",
+      "greek_terms": [],
+      "title": "",
+      "page": 135
+    },
+    {
+      "section_number": "32",
+      "greek_terms": [],
+      "title": "",
+      "page": 137
+    },
+    {
+      "section_number": "33",
+      "greek_terms": [],
+      "title": "",
+      "page": 143
+    },
+    {
+      "section_number": "34",
+      "greek_terms": [],
+      "title": "",
+      "page": 146
+    },
+    {
+      "section_number": "35",
+      "greek_terms": [],
+      "title": "",
+      "page": 147
+    },
+    {
+      "section_number": "xliii",
+      "greek_terms": [
+        "πραότης",
+        "ἐπιείκεια"
+      ],
+      "title": "πραότης,ἐπιείκεια",
+      "page": 153
+    },
+    {
+      "section_number": "37",
+      "greek_terms": [],
+      "title": "",
+      "page": 157
+    },
+    {
+      "section_number": "38",
+      "greek_terms": [],
+      "title": "",
+      "page": 163
+    },
+    {
+      "section_number": "xlvii",
+      "greek_terms": [
+        "χάρις",
+        "ἔλεος"
+      ],
+      "title": "χάρις,ἔλεος",
+      "page": 166
+    },
+    {
+      "section_number": "xlviii",
+      "greek_terms": [
+        "θεοσεβής",
+        "εὐσεβής",
+        "εὐλαβής",
+        "θρήσκος",
+        "δεισιδαίμων"
+      ],
+      "title": "θεοσεβής,εὐσεβής,εὐλαβής,θρήσκος,δεισιδαίμων",
+      "page": 172
+    },
+    {
+      "section_number": "xlix",
+      "greek_terms": [
+        "κενός",
+        "μάταιος"
+      ],
+      "title": "κενός,μάταιος",
+      "page": 180
+    },
+    {
+      "section_number": "1",
+      "greek_terms": [
+        "ἱμάτιον",
+        "χιτών",
+        "ἱματισμός",
+        "χλαμύς",
+        "στολή",
+        "ποδήρης"
+      ],
+      "title": "ἱμάτιον,χιτών,ἱματισμός,χλαμύς,στολή,ποδήρης",
+      "page": 184
+    },
+    {
+      "section_number": "43",
+      "greek_terms": [],
+      "title": "",
+      "page": 193
+    },
+    {
+      "section_number": "liii",
+      "greek_terms": [
+        "μακροθυμία",
+        "ὑπομονή",
+        "ἀνοχή"
+      ],
+      "title": "μακροθυμία,ὑπομονή,ἀνοχή",
+      "page": 195
+    },
+    {
+      "section_number": "liv",
+      "greek_terms": [
+        "στρηνιάω",
+        "τρυφάω",
+        "σπαταλάω"
+      ],
+      "title": "στρηνιάω,τρυφάω,σπαταλάω",
+      "page": 200
+    },
+    {
+      "section_number": "46",
+      "greek_terms": [
+        "1ν. θλίψις",
+        "στενοχωρία"
+      ],
+      "title": "1ν. θλίψις,στενοχωρία",
+      "page": 202
+    },
+    {
+      "section_number": "lvi",
+      "greek_terms": [
+        "ἁπλοῦς",
+        "ἀκέραιος",
+        "ἄκακος",
+        "ἄδολος"
+      ],
+      "title": "ἁπλοῦς,ἀκέραιος,ἄκακος,ἄδολος",
+      "page": 204
+    },
+    {
+      "section_number": "48",
+      "greek_terms": [],
+      "title": "",
+      "page": 209
+    },
+    {
+      "section_number": "49",
+      "greek_terms": [],
+      "title": "",
+      "page": 213
+    },
+    {
+      "section_number": "50",
+      "greek_terms": [],
+      "title": "",
+      "page": 214
+    },
+    {
+      "section_number": "51",
+      "greek_terms": [],
+      "title": "",
+      "page": 219
+    },
+    {
+      "section_number": "52",
+      "greek_terms": [],
+      "title": "",
+      "page": 225
+    },
+    {
+      "section_number": "53",
+      "greek_terms": [],
+      "title": "",
+      "page": 228
+    },
+    {
+      "section_number": "54",
+      "greek_terms": [],
+      "title": "",
+      "page": 232
+    },
+    {
+      "section_number": "55",
+      "greek_terms": [],
+      "title": "",
+      "page": 236
+    },
+    {
+      "section_number": "56",
+      "greek_terms": [],
+      "title": "",
+      "page": 238
+    },
+    {
+      "section_number": "57",
+      "greek_terms": [
+        "νομία",
+        "παράβασις",
+        "παράπτωμα",
+        "ἀγνόημα",
+        "ἥττημα"
+      ],
+      "title": "νομία,παράβασις,παράπτωμα,ἀγνόημα,ἥττημα",
+      "page": 239
+    },
+    {
+      "section_number": "58",
+      "greek_terms": [],
+      "title": "",
+      "page": 250
+    },
+    {
+      "section_number": "59",
+      "greek_terms": [],
+      "title": "",
+      "page": 253
+    },
+    {
+      "section_number": "60",
+      "greek_terms": [],
+      "title": "",
+      "page": 256
+    },
+    {
+      "section_number": "61",
+      "greek_terms": [],
+      "title": "",
+      "page": 262
+    },
+    {
+      "section_number": "62",
+      "greek_terms": [],
+      "title": "",
+      "page": 268
+    },
+    {
+      "section_number": "63",
+      "greek_terms": [],
+      "title": "",
+      "page": 272
+    },
+    {
+      "section_number": "64",
+      "greek_terms": [],
+      "title": "",
+      "page": 275
+    },
+    {
+      "section_number": "65",
+      "greek_terms": [],
+      "title": "",
+      "page": 278
+    },
+    {
+      "section_number": "66",
+      "greek_terms": [],
+      "title": "",
+      "page": 281
+    },
+    {
+      "section_number": "67",
+      "greek_terms": [],
+      "title": "",
+      "page": 286
+    },
+    {
+      "section_number": "68",
+      "greek_terms": [],
+      "title": "",
+      "page": 290
+    },
+    {
+      "section_number": "69",
+      "greek_terms": [],
+      "title": "",
+      "page": 296
+    },
+    {
+      "section_number": "70",
+      "greek_terms": [],
+      "title": "",
+      "page": 302
+    },
+    {
+      "section_number": "71",
+      "greek_terms": [],
+      "title": "",
+      "page": 305
+    },
+    {
+      "section_number": "72",
+      "greek_terms": [],
+      "title": "",
+      "page": 308
+    },
+    {
+      "section_number": "73",
+      "greek_terms": [],
+      "title": "",
+      "page": 311
+    },
+    {
+      "section_number": "74",
+      "greek_terms": [],
+      "title": "",
+      "page": 313
+    },
+    {
+      "section_number": "75",
+      "greek_terms": [],
+      "title": "",
+      "page": 315
+    },
+    {
+      "section_number": "76",
+      "greek_terms": [],
+      "title": "",
+      "page": 319
+    },
+    {
+      "section_number": "77",
+      "greek_terms": [],
+      "title": "",
+      "page": 322
+    },
+    {
+      "section_number": "78",
+      "greek_terms": [],
+      "title": "",
+      "page": 324
+    },
+    {
+      "section_number": "79",
+      "greek_terms": [],
+      "title": "",
+      "page": 327
+    },
+    {
+      "section_number": "80",
+      "greek_terms": [],
+      "title": "",
+      "page": 334
+    },
+    {
+      "section_number": "81",
+      "greek_terms": [],
+      "title": "",
+      "page": 337
+    },
+    {
+      "section_number": "82",
+      "greek_terms": [],
+      "title": "",
+      "page": 340
+    },
+    {
+      "section_number": "83",
+      "greek_terms": [],
+      "title": "",
+      "page": 345
+    },
+    {
+      "section_number": "84",
+      "greek_terms": [],
+      "title": "",
+      "page": 349
+    },
+    {
+      "section_number": "85",
+      "greek_terms": [],
+      "title": "",
+      "page": 353
+    },
+    {
+      "section_number": "86",
+      "greek_terms": [],
+      "title": "",
+      "page": 358
+    },
+    {
+      "section_number": "87",
+      "greek_terms": [],
+      "title": "",
+      "page": 362
+    },
+    {
+      "section_number": "88",
+      "greek_terms": [],
+      "title": "",
+      "page": 365
+    },
+    {
+      "section_number": "89",
+      "greek_terms": [],
+      "title": "",
+      "page": 367
+    },
+    {
+      "section_number": "90",
+      "greek_terms": [],
+      "title": "",
+      "page": 370
+    },
+    {
+      "section_number": "91",
+      "greek_terms": [],
+      "title": "",
+      "page": 373
+    },
+    {
+      "section_number": "92",
+      "greek_terms": [],
+      "title": "",
+      "page": 375
+    },
+    {
+      "section_number": "93",
+      "greek_terms": [],
+      "title": "",
+      "page": 378
+    },
+    {
+      "section_number": "94",
+      "greek_terms": [],
+      "title": "",
+      "page": 379
+    },
+    {
+      "section_number": "95",
+      "greek_terms": [],
+      "title": "",
+      "page": 382
+    },
+    {
+      "section_number": "96",
+      "greek_terms": [],
+      "title": "",
+      "page": 385
+    },
+    {
+      "section_number": "97",
+      "greek_terms": [],
+      "title": "",
+      "page": 387
+    },
+    {
+      "section_number": "98",
+      "greek_terms": [],
+      "title": "",
+      "page": 390
+    },
+    {
+      "section_number": "99",
+      "greek_terms": [],
+      "title": "",
+      "page": 391
+    },
+    {
+      "section_number": "100",
+      "greek_terms": [],
+      "title": "",
+      "page": 391
+    },
+    {
+      "section_number": "101",
+      "greek_terms": [],
+      "title": "",
+      "page": 392
+    },
+    {
+      "section_number": "6",
+      "greek_terms": [
+        "ἀνάμνησις",
+        "ὑπόμνησις"
+      ],
+      "title": "ἀνάμνησις,ὑπόμνησις",
+      "page": 392
+    },
+    {
+      "section_number": "7",
+      "greek_terms": [
+        "φόρος",
+        "τέλος"
+      ],
+      "title": "φόρος,τέλος",
+      "page": 392
+    },
+    {
+      "section_number": "8",
+      "greek_terms": [
+        "τύπος",
+        "ἀλληγορούμενον"
+      ],
+      "title": "τύπος,ἀλληγορούμενον",
+      "page": 392
+    },
+    {
+      "section_number": "105",
+      "greek_terms": [],
+      "title": "",
+      "page": 392
+    },
+    {
+      "section_number": "10",
+      "greek_terms": [
+        "ὀφείλει",
+        "δεῖ"
+      ],
+      "title": "ὀφείλει,δεῖ",
+      "page": 392
+    },
+    {
+      "section_number": "11",
+      "greek_terms": [
+        "πραΰς",
+        "ἡσύχιος"
+      ],
+      "title": "πραΰς,ἡσύχιος",
+      "page": 393
+    },
+    {
+      "section_number": "12",
+      "greek_terms": [
+        "τεθεμελιωμένος",
+        "ἑδραῖος"
+      ],
+      "title": "τεθεμελιωμένος, ἑδραῖος",
+      "page": 393
+    },
+    {
+      "section_number": "13",
+      "greek_terms": [
+        "θνητός",
+        "νεκρός"
+      ],
+      "title": "θνητός,νεκρός",
+      "page": 393
+    },
+    {
+      "section_number": "14",
+      "greek_terms": [
+        "ἔλεος",
+        "οἰκτιρμός"
+      ],
+      "title": "ἔλεος,οἰκτιρμός",
+      "page": 393
+    },
+    {
+      "section_number": "111",
+      "greek_terms": [],
+      "title": "",
+      "page": 393
+    },
+    {
+      "section_number": "112",
+      "greek_terms": [],
+      "title": "",
+      "page": 394
+    },
+    {
+      "section_number": "113",
+      "greek_terms": [],
+      "title": "",
+      "page": 394
+    },
+    {
+      "section_number": "114",
+      "greek_terms": [],
+      "title": "",
+      "page": 401
+    }
+  ]
+}
